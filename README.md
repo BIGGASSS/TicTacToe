@@ -1,2 +1,1 @@
-# Tic-Tac-Toe
-## Implemented in C++
+# Tic-Tac-Toe Implemented in C++
